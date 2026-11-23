@@ -17,7 +17,7 @@ I'm currently building my foundation in programming, learning new technologies, 
 ## 📫 How to Reach Me
 
 - **Email:** [abdullahalsadiq1@gmail.com](mailto:abdullahalsadiq1@gmail.com)
-- **GitHub:** [github.com/abdullahalsadiq1](https://github.com/abdullahalsadiq1)
+- **GitHub:** [https://github.com/Ya-Al-Sadiq](https://github.com/Ya-Al-Sadiq).
 
 ---
 
