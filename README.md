@@ -1,16 +1,25 @@
-## Hi there 👋
 
-<!--
-**Ya-Al-Sadiq/Ya-Al-Sadiq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 👋 Hi, I'm Abdullah Al Sadiq
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Computer Science & Engineering Student | Aspiring Software Developer
+
+I'm a Computer Science and Engineering student at United International University (UIU), Bangladesh.
+
+I'm currently building my foundation in programming, learning new technologies, and exploring the world of software development. I believe that becoming a good developer takes time, consistency, and a willingness to learn from mistakes.
+
+
+## 🚀 About Me
+- 🧠 Interested in problem-solving, software development, and emerging technologies.
+- 🌱 Always exploring new ideas and improving my technical skills.
+- 🎯 Working towards becoming a skilled software developer.
+
+## 📫 How to Reach Me
+
+- **Email:** [abdullahalsadiq1@gmail.com](mailto:abdullahalsadiq1@gmail.com)
+- **GitHub:** [github.com/abdullahalsadiq1](https://github.com/abdullahalsadiq1)
+
+---
+
+⭐ *"Every expert was once a beginner. Just keep learning."*
+
