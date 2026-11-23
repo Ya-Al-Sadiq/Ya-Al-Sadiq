@@ -4,7 +4,7 @@
 
 ### Computer Science & Engineering Student | Aspiring Software Developer
 
-I'm a Computer Science and Engineering student at United International University (UIU), Bangladesh.
+I'm a Computer Science and Engineering student.
 
 I'm currently building my foundation in programming, learning new technologies, and exploring the world of software development. I believe that becoming a good developer takes time, consistency, and a willingness to learn from mistakes.
 
